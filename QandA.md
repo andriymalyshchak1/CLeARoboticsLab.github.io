@@ -15,7 +15,7 @@ Once you have (essentially) finished courses in your second year, you should be 
 
 _In subsequent years,_ I expect that you focus almost all work-related effort on research and at any given time maintain a mix of projects you are "leading" and those you are "helping out with." Every student's journey will be different, though, so if you are not sure how things are going or how to plan your schedule, let's talk.
 
-**How many papers you expect from your students? What is the typical lifecycle of a project/paper?**
+**How many papers do you expect from your students? What is the typical lifecycle of a project/paper?**
 
 1-2 a year is a decent number. You should be able to hit that with absolutely no problem by your third year. More is better, if they are high quality. It is worse if they are getting in the way of you being able to think deeply about more significant research problems. By your third year, you should be able to go from "rough idea" to "submitted conference paper" in roughly 6-9 months. Obviously, this is something that you get more comfortable with over time and as you get more experienced. So, for example, I expect most people's first paper to be based on work they start by the end of the first semester, and not get submitted until the end of the following summer. By your fifth year, you should probably be able to work on 3-4 projects every year, or more.
 
